@@ -1,1 +1,1 @@
-"c:\Users\Virsix\Desktop\AIO.exe" -multidisplay
+"c:\Users\Virsix\Desktop\KK.exe" -multidisplay
