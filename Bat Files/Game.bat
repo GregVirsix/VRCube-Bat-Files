@@ -1,0 +1,1 @@
+"c:\Users\Virsix\Desktop\AIO.exe" -multidisplay
